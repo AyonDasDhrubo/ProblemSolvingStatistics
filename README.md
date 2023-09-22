@@ -3,7 +3,7 @@
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [Ayon_Das](https://codeforces.com/profile/Ayon_Das) | 522 |
-| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 331 |
+| CodeChef | [ayon_das00](https://www.codechef.com/users/ayon_das00) | 14 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 247 |
 | Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 3095 |
 | CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 355 |
