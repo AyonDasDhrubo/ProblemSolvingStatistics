@@ -5,14 +5,10 @@
 | Codeforces | [Ayon_Das](https://codeforces.com/profile/Ayon_Das) | 522 |
 | CodeChef | [ayon_das00](https://www.codechef.com/users/ayon_das00) | 14 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 247 |
-| Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 3095 |
-| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 355 |
-| AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 257 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 173 | 
 | LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
 | Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 339 |
 | Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1006 |
-| Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1148 |
 | UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
 | HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
 | HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
