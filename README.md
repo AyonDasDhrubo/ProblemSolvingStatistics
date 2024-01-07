@@ -5,7 +5,7 @@
 | Codeforces | [Ayon_Das](https://codeforces.com/profile/Ayon_Das) | 606 |
 | CodeChef | [ayon_das00](https://www.codechef.com/users/ayon_das00) | 14 |
 | AtCoder | [Ayon_Das](https://atcoder.jp/users/Ayon_Das) | 22 |
-| SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 173 | 
+| SPOJ | [ayon_das00](https://www.spoj.com/users/ayon_das00/) | 12 | 
 | LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
 | Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 339 |
 | Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1006 |
