@@ -7,11 +7,9 @@
 | AtCoder | [Ayon_Das](https://atcoder.jp/users/Ayon_Das) | 22 |
 | SPOJ | [ayon_das00](https://www.spoj.com/users/ayon_das00/) | 12 | 
 | LightOJ | [ayon_das](https://lightoj.com/user/ayon_das) | 11 | 
-| Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 339 |
 | Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1006 |
-| UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
-| HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
-| HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
+| UVA | [Ayon_Das](https://uhunt.onlinejudge.org/id/1320269) | 10 |
+| HackerRank | [ayondas_dhrubo](https://www.hackerrank.com/profile/ayondas_dhrubo) | 10 |
 | TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 30 |
 | Total | | 5081 |
 | Total | | 5633 |
