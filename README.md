@@ -10,5 +10,6 @@
 | LightOJ | [ayon_das](https://lightoj.com/user/ayon_das) | 11 | 
 | HackerRank | [ayondas_dhrubo](https://www.hackerrank.com/profile/ayondas_dhrubo) | 10 |
 | UVA | [Ayon_Das](https://uhunt.onlinejudge.org/id/1320269) | 10 |
+| CSES | [Ayon_Das](https://cses.fi/user/82031) | 9 |
 | Timus | [Ayon Das](https://acm.timus.ru/author.aspx?id=312405) | 3 |
-| Total | | 851 |
+| Total | | 860 |
