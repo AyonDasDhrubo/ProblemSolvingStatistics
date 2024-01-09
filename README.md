@@ -10,6 +10,6 @@
 | Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1006 |
 | UVA | [Ayon_Das](https://uhunt.onlinejudge.org/id/1320269) | 10 |
 | HackerRank | [ayondas_dhrubo](https://www.hackerrank.com/profile/ayondas_dhrubo) | 10 |
-| TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 30 |
+| Timus | [Ayon Das](https://acm.timus.ru/author.aspx?id=312405) | 3 |
 | Total | | 5081 |
 | Total | | 5633 |
